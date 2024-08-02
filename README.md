@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @drewsephski
 ## 👀 I’m interested in everything technology
 ## 🌱 I’m currently learning Typescript 
-## 🖥 I’m looking to collaborate on fine-tuning a machine learning model 
-## 📫 How to reach me drewsepeczi@gmail.com 
+## 🖥 I’m looking to collaborate on a interactive mini-game website
+## 📫 Reach me at drewsepeczi@gmail.com 
 ## 🧑 Pronouns: Andrew/Drew
-# 🔥 Hot Take: <Tailwind CSS
+# 🔥 Hot Take: Bootstrap < Tailwind
