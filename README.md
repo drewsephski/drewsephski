@@ -15,7 +15,7 @@ Welcome to my GitHub corner! I'm passionate about **web development**, **AI**, *
 - Have an interesting project to collaborate on.
 - Want to exchange ideas around startups or web technologies.
 - Just want to chat about anything tech related or business related?  
-- Hit up my ***Instagram***  **DMs** 📸 **[drew.sepeczi](https://www.instagram.com/drew.sepeczi/)**
+📸 Hit up my **Instagram**  **DMs [@drew.sepeczi](https://www.instagram.com/drew.sepeczi/)**
 
 
 ---
