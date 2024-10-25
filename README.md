@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Drew! (@drewsephski)
 Welcome to my GitHub corner! I'm passionate about **web development**, **AI**, **business**, and, of course, **making things happen**. Whether it's code or commerce, I'm all about building exciting things.
-## Checkout some of my UI Work: @
+## Checkout some of my UI Work: [@drew.sepeczi](https://www.codepen.io/drew.sepeczi/)
 
 ### 🌟 About Me
 - 👀 **Interests**: **Web Dev, AI, Business, SaaS solutions, and all things tech-driven 🚀**
