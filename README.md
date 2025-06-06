@@ -53,34 +53,6 @@ const drew = {
 
 </div>
 
-## 🎯 Featured Projects
-
-### 🤖 [ForgeBlogAI](https://github.com/drewsephski/ForgeBlogAI)
-> AI-powered workflows to generate blogs, saving hours of repetitive blog prompting
-
-**The Problem:** Content creators spend countless hours crafting prompts and generating blog content  
-**My Solution:** An intelligent system that automates the entire blog creation workflow  
-**Tech Stack:** TypeScript, AI/ML APIs, Automation Tools
-
-### 🔗 [Linkify](https://github.com/drewsephski/Linkify)
-> An innovative link management software designed to help you shorten, track, and optimize your links effortlessly
-
-**Why it matters:** Every click tells a story, and every story deserves to be tracked  
-**Features:** URL shortening, analytics dashboard, link optimization  
-**Tech Stack:** TypeScript, Full-stack architecture
-
-### 🎬 [ReelTime](https://github.com/drewsephski/ReelTime)
-> Interactive video experience platform built with modern web technologies
-
-**Vision:** Reimagining how we interact with video content in the digital age  
-**Built with:** TypeScript, StackBlitz integration
-
-### 🥊 [UFC-Predicts](https://github.com/drewsephski/UFC-Predicts)
-> Data-driven UFC fight prediction system
-
-**The Challenge:** Predicting fight outcomes using statistical analysis  
-**My Approach:** Combining historical data, fighter metrics, and machine learning  
-**Tech Stack:** TypeScript, Data Analysis, Predictive Modeling
 
 ## 📊 GitHub Analytics
 
@@ -110,6 +82,36 @@ const drew = {
 - 🔥 Current streak: Building something new every day
 
 ---
+
+## 🎯 Featured Projects
+
+### 🤖 [ForgeBlogAI](https://github.com/drewsephski/ForgeBlogAI)
+> AI-powered workflows to generate blogs, saving hours of repetitive blog prompting
+
+**The Problem:** Content creators spend countless hours crafting prompts and generating blog content  
+**My Solution:** An intelligent system that automates the entire blog creation workflow  
+**Tech Stack:** TypeScript, AI/ML APIs, Automation Tools
+
+### 🔗 [Linkify](https://github.com/drewsephski/Linkify)
+> An innovative link management software designed to help you shorten, track, and optimize your links effortlessly
+
+**Why it matters:** Every click tells a story, and every story deserves to be tracked  
+**Features:** URL shortening, analytics dashboard, link optimization  
+**Tech Stack:** TypeScript, Full-stack architecture
+
+### 🎬 [ReelTime](https://github.com/drewsephski/ReelTime)
+> Interactive video experience platform built with modern web technologies
+
+**Vision:** Reimagining how we interact with video content in the digital age  
+**Built with:** TypeScript, StackBlitz integration
+
+### 🥊 [UFC-Predicts](https://github.com/drewsephski/UFC-Predicts)
+> Data-driven UFC fight prediction system
+
+**The Challenge:** Predicting fight outcomes using statistical analysis  
+**My Approach:** Combining historical data, fighter metrics, and machine learning  
+**Tech Stack:** TypeScript, Data Analysis, Predictive Modeling
+
 
 ## 🎨 Creative Corner
 
