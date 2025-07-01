@@ -12,25 +12,8 @@
 
 I'm a **software engineer** and **creative web developer** based in the Windy City 🏙️, passionate about crafting innovative digital experiences. I love turning complex problems into elegant solutions and building tools that make developers' lives easier.
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="center" alt="Coding" width="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-```typescript
-const drew = {
-  location: "Chicago, IL 🌆",
-  currentFocus: ["AI-powered workflows", "Full-stack development", "Creative web experiences"],
-  techStack: ["TypeScript", "React", "Next.js", "Node.js", "Python"],
-  interests: ["3D animations", "Link optimization", "Blog automation", "UFC analytics"],
-  currentlyBuilding: "AI tools that save developers hours of repetitive work",
-  funFact: "I believe every great app starts with a great idea and a cup of coffee ☕",
-  dailyRoutine: [
-    "☕ Coffee first",
-    "💻 Code something amazing", 
-    "🚀 Deploy to production",
-    "🔄 Repeat"
-  ],
-  motto: "Building tomorrow's web, today ✨"
-};
-```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
