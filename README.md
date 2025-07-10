@@ -8,12 +8,6 @@
 
 </div>
 
-## 🚀 About Me
-
-I'm a **software engineer** and **creative web developer** based in the Windy City 🏙️, passionate about crafting innovative digital experiences. I love turning complex problems into elegant solutions and building tools that make developers' lives easier.
-
-<img align="center" alt="Coding" width="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -33,36 +27,6 @@ I'm a **software engineer** and **creative web developer** based in the Windy Ci
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=drewsephski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewsephski&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=drewsephski&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-## 🌟 What I'm Up To
-
-<img align="right" alt="Current Activity" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
-- 🔭 Currently working on **AI automation tools** that revolutionize content creation
-- 🌱 Learning **advanced machine learning techniques** and **3D web technologies**
-- 👯 Looking to collaborate on **innovative web applications** and **developer tools**
-- 💬 Ask me about **TypeScript**, **React**, **AI workflows**, or **creative web development**  
-- ⚡ Fun fact: I can debug code faster than I can choose what to watch on Netflix
-- 🎯 2025 Goals: Launch 3 major projects, contribute to 10 open source repos
-- 🔥 Current streak: Building something new every day
 
 ---
 
@@ -131,15 +95,6 @@ I'm a **software engineer** and **creative web developer** based in the Windy Ci
 
 ---
 
-<div align="center">
-
-### 💭 Random Dev Thought
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=drewsephski&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 Contribution Graph
 
