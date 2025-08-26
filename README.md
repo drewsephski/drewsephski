@@ -12,23 +12,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💫 About Me
-
-I'm a full-stack developer passionate about creating seamless user experiences and integrating AI into practical applications. Based in Chicago, I focus on building scalable web solutions that solve real-world problems.
-
-```typescript
-const drew = {
-  location: "Chicago, IL",
-  focus: ["Full-Stack Development", "AI Integration", "Web Applications"],
-  currentlyBuilding: "Next-generation UI components and AI-powered tools",
-  motivation: "Turning complex ideas into elegant, user-friendly solutions"
-};
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1E3A8A?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,7 +22,6 @@ const drew = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-312E81?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1E3A8A?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1E40AF?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-312E81?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-1E3A8A?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-1E40AF?style=for-the-badge&logo=openai&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-312E81?style=for-the-badge&logo=firebase&logoColor=white)
@@ -104,17 +86,6 @@ Intelligent content automation platform that streamlines blog creation with AI-p
 
 [![Drew's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=drewsephski&bg_color=0f172a&color=1e3a8a&line=312e81&point=ffffff&area=true&hide_border=true)](https://github.com/drewsephski)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 Currently Working On
-
-- **Next-gen component library** with advanced animation patterns
-- **AI-powered development tools** for faster prototyping
-- **Open source contributions** to the React ecosystem
-
-<div align="center">
-
-**💼 Open to opportunities in full-stack development and AI integration**
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=drewsephski.drewsephski&left_color=1e3a8a&right_color=312e81)
 
