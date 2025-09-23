@@ -134,8 +134,4 @@ AI-powered platform for automated blog creation and content workflows, streamlin
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=drewsephski.drewsephski&left_color=FF6B6B&right_color=4ECDC4&left_text=Profile%20Views)
 
-<br>
-
-⭐ **"Code is poetry written in logic"** ⭐
-
 </div>
