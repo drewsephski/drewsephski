@@ -30,22 +30,15 @@ Building scalable web applications with modern technologies and AI integration
 ## Projects
 
 ### AI & Code Generation
-- **[Lynx: AI Code Generation](https://lynx-code.vercel.app/)** • Advanced code generation and refinement for developers • [GitHub](https://github.com/drewsephski/lynx)
-- **[shadv0](https://shadv0.com/)** • AI-driven code generator • [GitHub](https://github.com/drewsephski/shadv0)
 - **[CodeCypher](https://codecypher.lol)** • Transform ideas into production-ready React components with AI
+- **[Storm AI](https://shadv0.netlify.app/)** • AI-driven code generator • [GitHub](https://github.com/drewsephski/shadv0)
 - **[AI Chat SDK](https://ai-chat-sdk.netlify.app)** • Simple but powerful AI chatbot
 
-### Development Tools & Libraries
-- **[Easy UI](https://easy-ui.drewsephski.com/)** • Modern, accessible React components with TypeScript and animations • [GitHub](https://github.com/drewsephski/easy-ui)
-- **[Cracked Boilerplate](https://getcracked.lol)** • Full-stack boilerplate with AI SDK for voice generation, TTS, and reasoning chatbot
-
 ### Applications
-- **[UFC Predictor](https://ufc-predictor.drewsephski.com/)** • AI system for UFC fight prediction using real-time statistics and ML • [GitHub](https://github.com/drewsephski/ufc-predictor)
-- **[Linkify AI](https://linkify.ai/)** • AI-powered platform for automated blog and content creation workflows • [GitHub](https://github.com/drewsephski/linkify)
+- **[Easy UI](https://ez-ui.netlify.app/)** • Modern, accessible React components with TypeScript and animations • [GitHub](https://github.com/drewsephski/easy-ui)
+- **[Cracked Boilerplate](https://getcracked.lol)** • Full-stack boilerplate with AI SDK for voice generation, TTS, and reasoning chatbot
+- **[UFC Predictor](https://ufc-predict.netlify.app/)** • AI system for UFC fight prediction using real-time statistics and ML • [GitHub](https://github.com/drewsephski/ufc-predictor)
 
 ### Portfolio & Design
-- **[BentoBox Portfolio](https://bentobox-roan.vercel.app)** • Ultra-modern, bento-box styled portfolio landing page
-
----
-
-**[View all deployed sites →](https://gist.github.com/N-dcool/4de5ced9322d4d8bec9d0332974c88c0)**
+- **[BentoBox Portfolio](https://bentobox-roan.vercel.app/)** • Ultra-modern, bento-box styled portfolio landing page
+- **[Portfolio](http://drewsepsi.netlify.app/)** • A modern and engaging portfolio for AI engineer with micro-interactions and full stack capabilties
