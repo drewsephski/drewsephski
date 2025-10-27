@@ -1,118 +1,51 @@
-<div align="center">
+# Drew Sepeczi
 
-# 👋 Drew Sepeczi
-**Full-Stack Engineer** • **LLM Engineer** • **Chicago, IL**
+**Full-Stack Engineer • LLM Engineer • Chicago, IL**
 
-*Building scalable web applications with modern technologies and AI integration*
+Building scalable web applications with modern technologies and AI integration
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drewsepeczi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://drewsepsi.netlify.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/drewsepeczi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=safari&logoColor=white)](https://drewsepsi.netlify.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-... (existing content) ...
+## Tech Stack
 
-## 🚀 Live Projects
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-<table>
-  <tr>
-    <td width="33%" align="center">
+---
 
-### 🎨 [Easy UI](https://easy-ui.drewsephski.com/)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://easy-ui.drewsephski.com/)
-<br/>
-Modern, accessible React components with TypeScript support and smooth animations.<br/>
-[GitHub Repo](https://github.com/drewsephski/easy-ui)
+## Projects
 
-    </td>
-    <td width="33%" align="center">
+### AI & Code Generation
+- **[Lynx: AI Code Generation](https://lynx-code.vercel.app/)** • Advanced code generation and refinement for developers • [GitHub](https://github.com/drewsephski/lynx)
+- **[shadv0](https://shadv0.com/)** • AI-driven code generator • [GitHub](https://github.com/drewsephski/shadv0)
+- **[CodeCypher](https://codecypher.lol)** • Transform ideas into production-ready React components with AI
+- **[AI Chat SDK](https://ai-chat-sdk.netlify.app)** • Simple but powerful AI chatbot
 
-### 🥊 [UFC Predictor](https://ufc-predictor.drewsephski.com/)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4ECDC4?style=for-the-badge&logo=safari&logoColor=white)](https://ufc-predictor.drewsephski.com/)
-<br/>
-AI system for UFC fight prediction using real-time fighter statistics and ML.<br/>
-[GitHub Repo](https://github.com/drewsephski/ufc-predictor)
+### Development Tools & Libraries
+- **[Easy UI](https://easy-ui.drewsephski.com/)** • Modern, accessible React components with TypeScript and animations • [GitHub](https://github.com/drewsephski/easy-ui)
+- **[Cracked Boilerplate](https://getcracked.lol)** • Full-stack boilerplate with AI SDK for voice generation, TTS, and reasoning chatbot
 
-    </td>
-    <td width="33%" align="center">
+### Applications
+- **[UFC Predictor](https://ufc-predictor.drewsephski.com/)** • AI system for UFC fight prediction using real-time statistics and ML • [GitHub](https://github.com/drewsephski/ufc-predictor)
+- **[Linkify AI](https://linkify.ai/)** • AI-powered platform for automated blog and content creation workflows • [GitHub](https://github.com/drewsephski/linkify)
 
-### 🤖 [Linkify AI](https://linkify.ai/)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-9B59B6?style=for-the-badge&logo=safari&logoColor=white)](https://linkify.ai/)
-<br/>
-AI-powered platform for automated blog/content creation workflows.<br/>
-[GitHub Repo](https://github.com/drewsephski/linkify)
+### Portfolio & Design
+- **[BentoBox Portfolio](https://bentobox-roan.vercel.app)** • Ultra-modern, bento-box styled portfolio landing page
 
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
+---
 
-### 💻 [Lynx: AI Code Generation](https://lynx-code.vercel.app/)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-5865F2?style=for-the-badge&logo=safari&logoColor=white)](https://lynx-code.vercel.app/)
-<br/>
-Advanced code generation and refinement for devs.<br/>
-[GitHub Repo](https://github.com/drewsephski/lynx)
-
-    </td>
-    <td width="33%" align="center">
-
-### ⚡ [shadv0: AI Code Generator](https://shadv0.com/)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-222222?style=for-the-badge&logo=safari&logoColor=white)](https://shadv0.com/)
-<br/>
-AI-driven code generation app.<br/>
-[GitHub Repo](https://github.com/drewsephski/shadv0)
-
-    </td>
-    <td width="33%" align="center">
-
-<!-- Placeholder for future projects! -->
-
-    </td>
-  </tr>
-</table>
-
-<!-- ADDITIONAL PROJECTS BELOW -->
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-
-### 🧠 [Cracked Boilerplate](https://getcracked.lol)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FFAD00?style=for-the-badge&logo=safari&logoColor=white)](https://getcracked.lol)
-<br/>
-A complete, full-stack boilerplate powered with AI SDK for voice generation, TTS, and a reasoning chatbot.
-
-    </td>
-    <td width="33%" align="center">
-
-### ⚛️ [CodeCypher](https://codecypher.lol)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-725AC1?style=for-the-badge&logo=safari&logoColor=white)](https://codecypher.lol)
-<br/>
-Transform your ideas into production-ready React components with AI. Just describe what you need, get type-safe code instantly.
-
-    </td>
-    <td width="33%" align="center">
-
-### 💬 [AI Chat SDK](https://ai-chat-sdk.netlify.app)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00BFAE?style=for-the-badge&logo=safari&logoColor=white)](https://ai-chat-sdk.netlify.app)
-<br/>
-Simple but powerful AI chatbot
-
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-
-### 🍱 [BentoBox Portfolio](https://bentobox-roan.vercel.app)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://bentobox-roan.vercel.app)
-<br/>
-An ultra-modern, bento-box styled portfolio landing page for developers, designers, and other creatives.
-
-    </td>
-  </tr>
-</table>
-
-> For an up-to-date full list, see my [Deployed Sites Reference (GitHub Gist)](https://gist.github.com/N-dcool/4de5ced9322d4d8bec9d0332974c88c0)
+**[View all deployed sites →](https://gist.github.com/N-dcool/4de5ced9322d4d8bec9d0332974c88c0)**
