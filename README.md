@@ -1,8 +1,7 @@
 <div align="center">
 
 # 👋 Drew Sepeczi
-
-**Full-Stack Engineer** • **AI Enthusiast** • **Chicago, IL**
+**Full-Stack Engineer** • **LLM Engineer** • **Chicago, IL**
 
 *Building scalable web applications with modern technologies and AI integration*
 
