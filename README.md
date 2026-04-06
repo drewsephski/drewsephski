@@ -5,7 +5,7 @@ Chicago, IL
 
 I build scalable web systems and AI-powered developer tools with a focus on clean architecture, automation, and real-world usability.
 
-[LinkedIn](https://linkedin.com/in/drewsepeczi) · [Portfolio](https://drewsepsi.netlify.app) · [Email](mailto:your-email@example.com)
+[LinkedIn](https://linkedin.com/in/drewsepeczi) · [Portfolio](https://drewsepeczi.xyz) · [Email](mailto:drewsepeczi@gmail.com)
 
 ---
 
@@ -15,6 +15,7 @@ I build scalable web systems and AI-powered developer tools with a focus on clea
 **AI-powered backend & workflow foundation for modern applications**
 
 Nodebase is my core project — a modular Node.js platform designed to accelerate backend development, automation, and AI integration.
+https://github.com/drewsephski/nodebase
 
 **Focus areas**
 - API-first architecture
@@ -25,25 +26,17 @@ Nodebase is my core project — a modular Node.js platform designed to accelerat
 
 > Built to reduce boilerplate, not flexibility.
 
-[View Repository](#) <!-- replace with actual repo link -->
-
 ---
 
-## Selected Projects
+## Projects
 
-### AI & Developer Tools
 - **CodeCypher** — AI system that converts product ideas into production-ready React components  
   https://codecypher.lol
-
-- **Storm AI** — AI-driven code generator focused on rapid UI scaffolding  
-  https://github.com/drewsephski/shadv0
-
-- **AI Chat SDK** — Lightweight SDK for building extensible AI chat experiences  
-  https://ai-chat-sdk.netlify.app
-
-### Applications
+  
 - **Easy UI** — Accessible, animated React component system  
   https://github.com/drewsephski/easy-ui
+  
+## Applications
 
 - **Cracked Boilerplate** — Full-stack starter with AI SDK, voice, TTS, and reasoning agents  
   https://getcracked.lol
