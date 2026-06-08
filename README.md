@@ -39,16 +39,17 @@ AI-powered portfolio generated from your LinkedIn, GitHub, or resume and deploy 
 </td>
 <td width="50%">
 
-### [NovaHub](https://novahub.dev)
-AI project analysis that turns repos into recruiter-ready, shareable products.
+### [Nodebase](https://github.com/drewsephski/nodebase)
+Orchestrate powerful AI workflows with a drag‑and‑drop canvas that connects agents, tools, and MCPs.
+
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### [Squid Agent](https://squidagent.app)
-Generate, iterate, and deploy full-stack apps from a single prompt.
+### [NovaHub](https://novahub.dev)
+AI project analysis that turns repos into recruiter-ready, shareable products.
 
 </td>
 <td width="50%">
