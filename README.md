@@ -10,15 +10,15 @@ I'm an early-career developer building useful products with React, Next.js, and 
 
 ### [Nodebase](https://github.com/drewsephski/nodebase) — visual AI workflow builder
 
-I built a drag-and-drop workflow editor with AI and MCP tool integrations, streamed execution progress, and saved run history.
+My continuation of Firecrawl's Open Agent Builder, with upstream work by Developers Digest and other contributors. I added OpenRouter model selection, refined the product UI, and fixed deployment issues. The project combines a visual workflow editor, MCP tools, streaming execution, and saved run history.
 
-- **Engineering focus:** connecting a visual graph to workflow execution, showing node-level results, and handling interrupted runs and authorization steps.
+- **Engineering focus:** extending model-provider selection across workflow nodes and settings, refining UI state, and resolving Next.js deployment build errors.
 - **Stack:** Next.js, TypeScript, React Flow, LangGraph, Convex.
 - **Status:** sunset; the successor is [Nodebrowser](https://github.com/drewsephski/nodebrowser). Nodebase remains available as a record of the work.
 
 [![Nodebase GitHub stars](https://img.shields.io/github/stars/drewsephski/nodebase?style=flat)](https://github.com/drewsephski/nodebase/stargazers)
 
-[Execution UI](https://github.com/drewsephski/nodebase/blob/main/hooks/useWorkflowExecution.ts) · [Run persistence](https://github.com/drewsephski/nodebase/blob/main/convex/executions.ts)
+[My OpenRouter contribution](https://github.com/drewsephski/nodebase/commit/f7ed93b73d3e58e6eaa2e3c26fcebdd7db6c35c5) · [Upstream history](https://github.com/drewsephski/nodebase/blob/fba08ee7f6f5153b8e3ab0879b249640fd843a07/README.md)
 
 ### [FormSquid](https://github.com/drewsephski/form-squid) — AI forms with source-code export
 
