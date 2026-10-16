@@ -6,7 +6,7 @@ I'm an early-career developer building useful products with React, Next.js, and 
 
 [Portfolio](https://drewsepeczi.xyz) · [LinkedIn](https://www.linkedin.com/in/drewsepeczi/)
 
-## Three projects to start with
+## Featured projects
 
 ### [Nodebase](https://github.com/drewsephski/nodebase) — visual AI workflow builder
 
