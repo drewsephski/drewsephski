@@ -14,4 +14,4 @@ My continuation of Firecrawl's Open Agent Builder, with upstream work by Develop
 
 [![Nodebase GitHub stars](https://img.shields.io/github/stars/drewsephski/nodebase?style=flat)](https://github.com/drewsephski/nodebase/stargazers)
 
-[My OpenRouter contribution](https://github.com/drewsephski/nodebase/commit/f7ed93b73d3e58e6eaa2e3c26fcebdd7db6c35c5)
+[OpenRouter contribution](https://github.com/drewsephski/nodebase/commit/f7ed93b73d3e58e6eaa2e3c26fcebdd7db6c35c5)
